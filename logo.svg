@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'>
+  <rect width='128' height='128' rx='16' ry='16' fill='#0b3a75'/>
+  <g transform='translate(64,64)'>
+    <circle r='44' fill='#ffb000' opacity='0.15'/>
+    <path d='M0,-36 L10,-10 H36 L14,6 L22,34 L0,18 L-22,34 L-14,6 L-36,-10 H-10 Z' fill='#ffb000'/>
+  </g>
+  <text x='64' y='118' font-family='Arial, Helvetica, sans-serif' font-size='12' text-anchor='middle' fill='#ffb000'>Pack 205</text>
+</svg>
